@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Backend(Nodejs) , MEARN**
 
-- 📫 How to reach me **chinmaymuduli1996@gmail.com**
+- 📫 How to reach me **raj.gupta07082000@gmail.com**
 
 - ⚡ Fun fact **I think I am funny😂**
 
