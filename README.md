@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React , Java**
 
-- 💬 Ask me about **Backend(Nodejs) , MEARN**
+- 💬 Ask me about **Backend(Nodejs) , MERN**
 
 - 📫 How to reach me **raj.gupta07082000@gmail.com**
 
