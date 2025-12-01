@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **raj.gupta07082000@gmail.com**
 
-- ⚡ Fun fact **I think I am funny😂**
+- ⚡ Fun fact **I think I've got a decent sense of humor😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
